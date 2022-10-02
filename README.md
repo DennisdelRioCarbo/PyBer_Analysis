@@ -1,9 +1,9 @@
 # PyBer_Analysis
 
-##**Overview of the analysis**
+## Overview of the analysis
 - PyBer is a ride-sharing app company where we are analyzing all the rideshares data from January to early May of 2019 and create visualization for the CEO, V.Isualize, to help improve access to ride-sharing services and determine affordability for underserved neighbourhoods. V.Isualize has asked to create a summary DataFrame of the ride-sharing data by city type and create a multiple-line graph that shows the total weekly fares for each city type.
  
-##**Results**
+## Results
 - Description of the differences in ride-sharing data among the different cities. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
 
 From looking at the data on the **Summary DataFrame** we can see that there seems to be an inverse proportion between *Total Rides, Total Drivers, Total Fares* and *Average Fare per Ride, Average Fare per Driver*. This could be explained by the relationship between supply and demand differences amongst the *Urban, Rural and Suburban* cities but also the distance travelled where *Rural* cities might have longer travelled distances, hence the higher fares.
@@ -25,7 +25,7 @@ From the **PyBer Fare Summary** chart we can look at the following:
 - Rural trend has remained mostly flat.
 - Except for the uptick in last week of February for all three, the city types do not seem to move uniformly or show a clear relationship or pattern between them. 
  
-##**Summary and recommendations**
+## Summary and recommendations 
 
 Based on the data and the analysis we recommend the following:
 
